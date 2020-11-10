@@ -45,7 +45,7 @@ I am on my way to become a Junior Java Developer🚀.
 
 ## Projects:
 
-<strong>MySchedule</strong> 📔
+<strong>1) MySchedule 📔</strong>
 
 <div>
 <a href="https://github.com/CcConStanTine/MyScheduleWithFront">MySchedule - Repository</a>
@@ -63,7 +63,7 @@ Future functionalities I plan to add:
 The whole application concept was mine, but currently there is a Front-End Developer which is creating the front side of this application, so there is possiblity it will be deployed soon. 
 
 </br>
-<strong>TrainingCenter</strong>🏋️
+<strong>2) TrainingCenter 🏋️</strong>
 
 <div>
 <a href="https://github.com/CodeEnthusiasts/TrainingCenter">TrainingCenter - Repository</a>
@@ -78,8 +78,8 @@ I learned and I am still learning a lot about:
 - organization in a group projects, 
 - contributing in group projects. 
 
-
-<strong>Paint-It!</strong>🕹️
+</br>
+<strong>3) Paint-It! 🕹️</strong>
 
 <div>
 <a href="https://github.com/CcConStanTine/Paint-It">Paint-It! - Repository</a>
