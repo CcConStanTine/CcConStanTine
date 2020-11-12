@@ -84,6 +84,6 @@ I learned and I am still learning a lot about:
 <div>
 <a href="https://github.com/CcConStanTine/Paint-It">Paint-It! - Repository</a>
 </div></br>
-
-Simple Java desktop game, which I created during the second year of studies. The main purpose of the game is to paint the board with the least possible moves. 
+Java desktop game, which I created during the second year of studies. The main purpose of the game is to paint the board with the least possible moves. 
+<div style="display: table-cell;"><img src="https://github.com/CcConStanTine/Paint-It/blob/master/src/main/resources/img/game2.PNG" width="450" height="400"></div>
 
