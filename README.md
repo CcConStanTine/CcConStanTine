@@ -45,13 +45,13 @@ I am on my way to become a Junior Java Developer🚀.
 
 ## Projects:
 
-<strong>1) MySchedule 📔</strong>
+<strong>1) GoalScheduler 📔</strong>
 
 <div>
-<a href="https://github.com/CcConStanTine/MyScheduleWithFront">MySchedule - Repository</a>
+<a href="https://github.com/CcConStanTine/GoalScheduler">GoalScheduler - Repository</a>
 </div></br>
 
-Web REST application, it might be called MyPlanner, because this is the main purpose of this application, to mirror a real-life planner with some fancy features which computers are able to do. 
+Web REST application, the main purpose of this application is to mirror a real-life goal planner with some fancy features which computers are able to do. 
 Actual functionalities in a shortcut:
 - register, login (security is working properly - there is no chance of calling other user's resources)
 - creating, modifying or deleting long-term/year/month/week/day plans
@@ -61,6 +61,7 @@ Future functionalities I plan to add:
 - creating a repeatable day plans, which when we log in, will be filled in the current day automatically
 - creating a set of achivements based on application functionalities (like logging for 10 days in a row, fullfilling 100 day plans etc.)
 The whole application concept was mine, but currently there is a Front-End Developer which is creating the front side of this application, so there is possiblity it will be deployed soon. 
+- creating a funciontality of assigning the plans which are lower in hierachy (DayPlan<WeekPlan<...<LongTermPlan), to the higher in hierarchy plans to create a connection between them, for purpose of monitoring the progress of achieving the complicated plans which consist of the smaller ones 
 
 </br>
 <strong>2) TrainingCenter 🏋️</strong>
