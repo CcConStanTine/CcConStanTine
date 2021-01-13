@@ -5,7 +5,6 @@ My name is <strong>Paweł Karpiel</strong> 🤓, I come from Poland.
 
 I am a third-year student of Applied Computer Science at the University of Technology in Cracow🧑‍🎓. Beyond the studies, I am also exploring backend technologies myself. 
 
-I am on my way to become a Junior Java Developer🚀. 
 <br/>
 
 #### Find me on :
