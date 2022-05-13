@@ -3,8 +3,6 @@
 
 My name is <strong>Paweł Karpiel</strong> 🤓, I come from Poland. 
 
-I am a third-year student of Applied Computer Science at the University of Technology in Cracow🧑‍🎓. Beyond the studies, I am also exploring backend technologies myself. 
-
 <br/>
 
 #### Find me on :
