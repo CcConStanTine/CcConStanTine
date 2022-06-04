@@ -13,6 +13,7 @@ My name is <strong>Paweł Karpiel</strong> 🤓, I come from Poland.
   </a>
 </div>
 
+<!--
 ### Tech stack:   
 <div>
     <img alt="JAVA" src="https://img.shields.io/badge/Java 11-orange?logo=java&logoColor=white&style=flat"/>
@@ -32,3 +33,4 @@ My name is <strong>Paweł Karpiel</strong> 🤓, I come from Poland.
     <img alt="Postman" src="https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white&style=flat"/>
     <img alt="Lombok" src="https://img.shields.io/badge/-Lombok-lightgrey"/>
 </div>
+-->
